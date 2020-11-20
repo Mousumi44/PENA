@@ -8,17 +8,10 @@ The advancement of technology and the widespread usage of smart phones have made
 For citation:
 
 @inproceedings{akter2017computing,
-
-  title={Computing aggregates over numeric data with personalized local differential privacy},
-  
+  title={Computing aggregates over numeric data with personalized local differential privacy}, 
   author={Akter, Mousumi and Hashem, Tanzima},
-  
   booktitle={Australasian Conference on Information Security and Privacy},
-  
   pages={249--260},
-  
   year={2017},
-  
   organization={Springer}
-  
 }
